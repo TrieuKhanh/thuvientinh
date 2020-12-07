@@ -1,0 +1,2 @@
+/home/pham/cpp/thuvienchung/thuvientinh/libthuvientinh.a
+/home/pham/cpp/thuvienchung/thuvientinh/phepcong.h

@@ -1,0 +1,7 @@
+/home/pham/cpp/thuvientinh/build/CMakeFiles/install/strip.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/install.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/list_install_components.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/rebuild_cache.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/edit_cache.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/install/local.dir
+/home/pham/cpp/thuvientinh/build/CMakeFiles/thuvientinh.dir

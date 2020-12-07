@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthuvientinh.a  CMakeFiles/thuvientinh.dir/phepcong.cpp.o
+/usr/bin/ranlib libthuvientinh.a
